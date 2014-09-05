@@ -1,17 +1,17 @@
 "GameModes.txt"
 {
-	"mapgroups"
-	{
-		"mg_riphard_casual"
-		{
-			"name" "mg_riphard_casual"
-			"maps"
-			{
-				"cs_insertion"      ""
-				"cs_italy"          ""
-				"cs_downtown"       ""
-				"cs_agency"         ""
-				"cs_assult"         ""
+    "mapgroups"
+    {
+        "mg_riphard_casual"
+        {
+            "name" "mg_riphard_casual"
+            "maps"
+            {
+                "cs_insertion"      ""
+                "cs_italy"          ""
+                "cs_downtown"       ""
+                "cs_agency"         ""
+                "cs_assult"         ""
                 "cs_militia"        ""
                 "cs_motel"          ""
                 "cs_office"         ""
@@ -42,8 +42,8 @@
                 "de_sugarcane"      ""
                 "de_train"          ""
                 "de_vertigo"        ""
-			}
-		}
+            }
+        }
 
         "mg_riphard_comp"
         {
@@ -212,5 +212,5 @@
             }
         }
 
-	}
+    }
 }
