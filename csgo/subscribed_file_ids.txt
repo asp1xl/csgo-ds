@@ -1,0 +1,114 @@
+
+// --- collection 125499818 ---
+// de_dust2_se
+// de_inferno_se
+// de_nuke_se
+// de_train_se
+// --- / end of collection ---
+
+122443683       // aim_map                  guns on floor
+122521875       // fy_pool_day              ?
+125528758       // dust 2 control           control?            https://developer.valvesoftware.com/wiki/CSGO_Custom_Game_Mode
+125529224       // rooftop control          control?
+125663769       // cs_siege                 cs
+125688771       // de_cambodia              de
+125689191       // de_season_rc1            de
+127012360       // cs_museum                cs
+128107346       // library                  de
+128672621       // de_rats_1337             de
+129256732       // de_dolls_csgo            de
+133051144       // rambo                    de
+133719892       // cyberwar                 de
+135565371       // fy_pool_day_classic      guns on floor
+136819520       // de_gwalior               de
+138088283       // de_gwalior_se            de
+143164914       // de_prisonbreak           de
+144165516       // de_mill_ce               de
+145699381       // night_office - zombieswarm ?
+148027212       // print                    de
+149093917       // dm_rust_mw2              dm(deathmatch) / ar / classic de(molition)
+150267492       // de_chinatown             de
+150287405       // de_kyrenia               de
+150328560       // de_stargate_atlantis     de
+151456229       // east borough             cs
+152827986       // ruins                    de
+153971527       // de_subway                de
+154952550       // cobertura                de
+155997653       // cheesefire               de
+157870155       // de_rats_2004ever         de
+160352757       // de_forge_go              de
+161569423       // snowcapped_csgo          de
+164997934       // awp_snow                 ?
+168693438       // keystone                 de
+168836810       // stadium                  de
+169218983       // the walking dead prison  ?
+171666668       // investment               de
+172740415       // poolstay                 ar(msrace) / classic de(molition)
+176444499       // ar_chess                 ar
+177781904       // aim_abandonedwarehouse   ?
+179913770       // reef                     de
+181366610       // mc donald's
+181519108       // pripyat                  dm / de / ar
+183511193       // aim_ak47_colt            guns on floor
+184440473       // cs_winternights_go_b1
+186594247       // awp_prison               ?
+190813280       // de_orient                de
+193252334       // cs_mitsumedori           cs
+194997295       // heat                     de
+197517841       // himeji castle            de
+198146855       // isku                     cs
+198606730       // de_subtransit            de
+199651111       // cs_warmblow              cs
+201811336       // toscan
+203499188       // fy_poolparty_v6          ?
+205587824       // aim_9h_ak                ?
+206678373       // cs_valley                cs
+209263301       // core                     de
+211764046       // bagra                    de
+212186928       // de_minecraft             de
+213583302       // aim_deagle7k             ?
+215971897       // coldwater
+216766151       // crossfire                de
+217770947       // aim_headshot_csgo        ?
+218845004       // de_vandal                de
+221603249       // marquis
+225151817       // pakistan
+225951955       // arcade                   de
+232135055       // kabul                    ?
+239672577       // crown
+241461511       // shutdown                 ?
+242795380       // factory                  de
+247375000       // aim_crazyjump            ?
+249354664       // import                   de
+250310599       // futsal
+250856300       // de_inferno_classic       de
+251812530       // rails                    de
+251987990       // tulip
+261145390       // aim_awp_prac             ?
+263393968       // bastion                  de
+264696104       // de_apache                de
+265372761       // de_haven                 de
+267340686       // de_facade                de
+268472808       // aim_crazyjump_simpsons   ?
+269598277       // de_sparity
+269639185       // hotel gellert
+270267370       // fy_ihazlego              ?
+270558362       // militia of mesa          ?
+272117783       // island
+272915337       // de_sparity_infinity      de
+273415773       // cs_hijack
+280073543       // awp_lego_remix_final
+280073543       // awp_lego_remix_final     ?
+284608750       // vice city awp            ?
+285315246       // grande                   cs
+285407740       // de_rats_kitchoon         de
+287951083       // bridge crossing          cs
+289481917       // de_lumber                de
+290705649       // typhoon                  de
+293611841       // workout
+296813783       // croft manor              ?
+298348234       // zm_miniature_room_pb_v1  zombie?
+310203095       // de_dawn                  de
+312199550       // tuscan
+312684112       // de_blizzard              de
+314261575       // fuel

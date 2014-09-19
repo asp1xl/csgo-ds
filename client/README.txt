@@ -1,0 +1,1 @@
+Note that these scripts do NOT go on the server, but on the client. Just added here so that they will be stored in same GitHub repo as the server files.

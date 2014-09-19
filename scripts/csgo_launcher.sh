@@ -69,15 +69,6 @@ TICKRATE="64"
 # classic causual
 #EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 0 +game_mode 0 +mapgroup mg_active +map de_blackgold"
 EXTRAPARAMS="+game_type 0 +game_mode 0 +mapgroup mg_active +map de_blackgold"
-# classic competitive
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 0 +game_mode 1 +mapgroup mg_bomb_se +map de_dust2_se"
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 0 +game_mode 1 +mapgroup mg_bomb_se"
-# arms race
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 1 +game_mode 0 +mapgroup mg_armsrace +map ar_shoots"
-# demolition
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 1 +game_mode 1 +mapgroup mg_demolition +map de_lake"
-# deathmatch
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 1 +game_mode 2 +mapgroup mg_allclassic +map de_dust"
 
 #PARAM_START="-game csgo -console -usercon -secure -autoupdate -steam_dir ${DIR_STEAMCMD} -steamcmd_script ${STEAM_RUNSCRIPT} -maxplayers_override ${MAXPLAYERS} -tickrate ${TICKRATE} +hostport ${PORT} +ip ${IP} +net_public_adr ${IP} ${EXTRAPARAMS}"
 PARAM_START="-game csgo -console -usercon -secure -autoupdate -steamcmd_script ${STEAM_RUNSCRIPT} -maxplayers_override ${MAXPLAYERS} -tickrate ${TICKRATE} +hostport ${PORT} +ip ${IP} +net_public_adr ${IP} ${EXTRAPARAMS}"
