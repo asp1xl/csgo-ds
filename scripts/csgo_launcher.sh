@@ -55,23 +55,19 @@ UPDATE_EMAIL=""
 UPDATE_RETRY=3
 
 # Workshop : https://developer.valvesoftware.com/wiki/CSGO_Workshop_For_Server_Operators
-#API_AUTHORIZATION_KEY="E884AFF22304FD5679EAF6649DA418F8" # http://steamcommunity.com/dev/registerkey - domain: riphard.com
+# register own auth key: http://steamcommunity.com/dev/registerkey
+#API_AUTHORIZATION_KEY="E884AFF22304FD5679EAF6649DA418F8" # domain: riphard.com
 API_AUTHORIZATION_KEY=""
 #WORKSHOP_COLLECTION_ID="125499818" # http://steamcommunity.com/sharedfiles/filedetails/?id=125499818
 WORKSHOP_COLLECTION_ID=""
 #WORKSHOP_START_MAP="125488374" # http://steamcommunity.com/sharedfiles/filedetails/?id=125488374
-#WORKSHOP_START_MAP="152508932" # http://steamcommunity.com/sharedfiles/filedetails/?id=152508932
 WORKSHOP_START_MAP=""
 
 # Game config
 MAXPLAYERS="32"
 TICKRATE="64"
-# classic causual
-#EXTRAPARAMS="-nohltv +sv_pure 0 +game_type 0 +game_mode 0 +mapgroup mg_active +map de_blackgold"
-EXTRAPARAMS="+game_type 0 +game_mode 0 +mapgroup mg_active +map de_blackgold"
-
-#PARAM_START="-game csgo -console -usercon -secure -autoupdate -steam_dir ${DIR_STEAMCMD} -steamcmd_script ${STEAM_RUNSCRIPT} -maxplayers_override ${MAXPLAYERS} -tickrate ${TICKRATE} +hostport ${PORT} +ip ${IP} +net_public_adr ${IP} ${EXTRAPARAMS}"
-PARAM_START="-game csgo -console -usercon -secure -autoupdate -steamcmd_script ${STEAM_RUNSCRIPT} -maxplayers_override ${MAXPLAYERS} -tickrate ${TICKRATE} +hostport ${PORT} +ip ${IP} +net_public_adr ${IP} ${EXTRAPARAMS}"
+EXTRAPARAMS="+game_type 0 +game_mode 0 +mapgroup mg_active +map de_blackgold" # parameters currently not in use:   -nohltv +sv_pure 0
+PARAM_START="-game csgo -console -usercon -secure -autoupdate -steam_dir ${DIR_STEAMCMD} -steamcmd_script ${STEAM_RUNSCRIPT} -maxplayers_override ${MAXPLAYERS} -tickrate ${TICKRATE} +hostport ${PORT} +ip ${IP} +net_public_adr ${IP} ${EXTRAPARAMS}"
 PARAM_UPDATE="+login ${STEAM_LOGIN} ${STEAM_PASSWORD} +force_install_dir ${DIR_ROOT} +app_update 740 validate +quit"
 
 # No edits necessary beyond this line
