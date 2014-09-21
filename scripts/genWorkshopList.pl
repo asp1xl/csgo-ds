@@ -25,7 +25,7 @@ foreach $dir (@dirs){
     @files = grep /.bsp/, readdir(D);
     closedir(D);
 
-    # print a warning if no map files where found
+    # print a warning if no map files were found
     if ((scalar @files) == 0){
         print "WARNING: \"$dir\" workshop map directory is empty! Remember to comment out this map from \"subscribed_file_ids.txt\".\n";
     }
